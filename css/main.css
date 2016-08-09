@@ -157,7 +157,6 @@ h5 {
 
 h6 {
     font-size: 0.625rem;
-    /*(10px)*/
     line-height: 1rem;
     font-weight: bold;
     text-transform: uppercase;
@@ -169,7 +168,6 @@ h6 {
 #contact {
     width: 100%;
     padding: 5% 10%;
-    /*height: 600px;*/
 }
 
 
@@ -179,8 +177,7 @@ header {
     background: url('../img/hero.png');
     background-size: cover;
     padding-bottom: 20%;
-    /*min-height: 320px;*/
-    /*background-size: 100% 100%;*/
+    
 }
 
 header h2 {
@@ -204,22 +201,7 @@ header h2 {
 /* ====== END OF Boostrap CSS Customization ======= */
 
 
-/*nav {
-    float: right;
-    padding: 75px 40px;
-}
 
-nav ul li {
-    display: inline-block;
-}
-
-nav ul li a {
-    text-transform: uppercase;
-    text-decoration: none;
-    font-size: 1.125rem;
-    color: #828282;
-    padding-left: 80px;
-}*/
 
 header h1 {
     clear: both;
@@ -324,18 +306,14 @@ header header h1 span {
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 
 .site-wrapper {
-    /*display: table;*/
     width: 100%;
     height: 100%;
     /* For at least Firefox */
     min-height: 100%;
-    /*margin-bottom: 20%;
-  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-          box-shadow: inset 0 0 100px rgba(0,0,0,.5);*/
+    
 }
 
 .site-wrapper-inner {
-    /*display: table-cell;*/
     vertical-align: top;
 }
 
@@ -607,15 +585,7 @@ header header h1 span {
     #contact img#contact-img {
         border: 12px solid #ffffff;
     }
-    #contact h2,
-    #contact #email-header,
-    #contact #socialmedia-header,
-    #contact ul {
-        /*padding-left: 115px;*/
-    }
-    #contact #envelope {
-        /*padding: 0 10px 0 115px;*/
-    }
+    
     #contact h2 {
         font-family: 'Lora', serif;
         font-size: 2.25rem;
