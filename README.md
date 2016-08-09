@@ -1,5 +1,7 @@
 This is a mobile-first responsive website using Bootstrap CSS that I converted from an existing page I had created in skillcrush 101 course.
 
+Demo site is at http://bootstrap-demo.hemapillay.com/
+
 The original assignment was to convert a PSD Design file to HTML/CSS.
 
 ## My process to convert skillcrush-101 site (Jubilee Austen website):
